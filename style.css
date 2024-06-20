@@ -19,5 +19,6 @@ body {
 
 #recipes {
     border: black solid;
-    padding: 16px;
+    padding: 16px 16px;
+    margin: 25px;
 }
